@@ -14,7 +14,7 @@
   "version": "1.0.0",
   "license": "ISC",
   "description": "Zadanie 16.3",
-  "repository": "no repository",
+  "repository": "https://github.com/mgrobelny/zadanie_16.4.git",
   "dependencies": {
     "uuid": "^3.1.0"
   },

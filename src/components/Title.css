@@ -1,0 +1,11 @@
+.Title {
+	background-color: #fefff4;
+	padding: 20px 100px;
+	font-family: Calibri;
+	font-size: 30px;
+	border: 1px solid gray;
+}
+
+.Title > div {
+	font-size: 20px;
+}
